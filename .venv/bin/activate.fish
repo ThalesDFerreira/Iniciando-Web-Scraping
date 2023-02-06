@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/thales/Documentos/python/raspagem_de_dados/.venv"
+set -gx VIRTUAL_ENV "/home/thales/Documentos/Iniciando-Web-Scraping/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
