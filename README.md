@@ -1,0 +1,1 @@
+Aqui estou iniciando os primeiros passos na raspagem de Dados utilizando o Selenium.
